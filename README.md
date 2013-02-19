@@ -1,4 +1,4 @@
-mdiki
+Thin Wiki
 =====
 
 Simple Markdown Wiki
